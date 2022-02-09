@@ -3,11 +3,11 @@ body{
 }
 @font-face {
     font-family: fontbold;
-    src: url(/font/Outfit-Bold.ttf);
+    src: url(font/Outfit-Bold.ttf);
   }
   @font-face {
     font-family: fontthin;
-    src: url(/font/Outfit-Thin.ttf);
+    src: url(font/Outfit-Thin.ttf);
   }
 .container{
     display: flex;
@@ -42,7 +42,7 @@ body{
 
 
 .qr{
-    background-image: url(/images/image-qr-code.png);
+    background-image: url(images/image-qr-code.png);
     background-size: contain;
     height: 360px;
     width: 360px;
